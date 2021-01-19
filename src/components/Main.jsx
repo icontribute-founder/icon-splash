@@ -32,7 +32,9 @@ const Main = () => {
                     <button className="signup-button" onClick={notfiy}>Sign Up</button>
                 </div>
             </div>
-            <img id="main-image" src={Image}/> 
+            <div className="main-image-container">
+             <img id="main-image" src={Image}/> 
+            </div>
         </div>
     </div>
   );
