@@ -1,6 +1,6 @@
 import React from "react";
 import placeholder from "../img/Group 872.png"
-import Check from "../img/check-mark.png"
+import Check from "../img/check.png"
 
 
 const Notification = ({ closeToast }) => {

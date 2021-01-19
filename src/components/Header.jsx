@@ -7,8 +7,10 @@ const Header = () => {
   return (
     <div className="header-container">
         <h1>iContribute</h1>
-        <div className="social-container">
+        <div className="social-container" >
+          <a href="https://www.linkedin.com/company/icontribute" target="_blank">
             <img src={Linkdin}/>
+          </a>
             <img src={Instagram}/>
         </div>
     </div>
