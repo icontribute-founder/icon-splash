@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/icon-splash/static/css/main.5e86e617.chunk.css",
-    "main.js": "/icon-splash/static/js/main.a63747d0.chunk.js",
-    "main.js.map": "/icon-splash/static/js/main.a63747d0.chunk.js.map",
-    "runtime-main.js": "/icon-splash/static/js/runtime-main.11046a8c.js",
-    "runtime-main.js.map": "/icon-splash/static/js/runtime-main.11046a8c.js.map",
-    "static/css/2.83342f34.chunk.css": "/icon-splash/static/css/2.83342f34.chunk.css",
-    "static/js/2.9ab03868.chunk.js": "/icon-splash/static/js/2.9ab03868.chunk.js",
-    "static/js/2.9ab03868.chunk.js.map": "/icon-splash/static/js/2.9ab03868.chunk.js.map",
-    "static/js/3.1eb36f16.chunk.js": "/icon-splash/static/js/3.1eb36f16.chunk.js",
-    "static/js/3.1eb36f16.chunk.js.map": "/icon-splash/static/js/3.1eb36f16.chunk.js.map",
-    "index.html": "/icon-splash/index.html",
-    "static/css/2.83342f34.chunk.css.map": "/icon-splash/static/css/2.83342f34.chunk.css.map",
-    "static/css/main.5e86e617.chunk.css.map": "/icon-splash/static/css/main.5e86e617.chunk.css.map",
-    "static/js/2.9ab03868.chunk.js.LICENSE.txt": "/icon-splash/static/js/2.9ab03868.chunk.js.LICENSE.txt",
-    "static/media/Group 863.dc747834.png": "/icon-splash/static/media/Group 863.dc747834.png"
+    "main.css": "/icontribute-founder.io/icon-splash/static/css/main.89096bfe.chunk.css",
+    "main.js": "/icontribute-founder.io/icon-splash/static/js/main.58024507.chunk.js",
+    "main.js.map": "/icontribute-founder.io/icon-splash/static/js/main.58024507.chunk.js.map",
+    "runtime-main.js": "/icontribute-founder.io/icon-splash/static/js/runtime-main.d78fa563.js",
+    "runtime-main.js.map": "/icontribute-founder.io/icon-splash/static/js/runtime-main.d78fa563.js.map",
+    "static/css/2.83342f34.chunk.css": "/icontribute-founder.io/icon-splash/static/css/2.83342f34.chunk.css",
+    "static/js/2.9ab03868.chunk.js": "/icontribute-founder.io/icon-splash/static/js/2.9ab03868.chunk.js",
+    "static/js/2.9ab03868.chunk.js.map": "/icontribute-founder.io/icon-splash/static/js/2.9ab03868.chunk.js.map",
+    "static/js/3.1eb36f16.chunk.js": "/icontribute-founder.io/icon-splash/static/js/3.1eb36f16.chunk.js",
+    "static/js/3.1eb36f16.chunk.js.map": "/icontribute-founder.io/icon-splash/static/js/3.1eb36f16.chunk.js.map",
+    "index.html": "/icontribute-founder.io/icon-splash/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/icontribute-founder.io/icon-splash/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.89096bfe.chunk.css.map": "/icontribute-founder.io/icon-splash/static/css/main.89096bfe.chunk.css.map",
+    "static/js/2.9ab03868.chunk.js.LICENSE.txt": "/icontribute-founder.io/icon-splash/static/js/2.9ab03868.chunk.js.LICENSE.txt",
+    "static/media/iContribute_Animation.89f610cc.gif": "/icontribute-founder.io/icon-splash/static/media/iContribute_Animation.89f610cc.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.11046a8c.js",
+    "static/js/runtime-main.d78fa563.js",
     "static/css/2.83342f34.chunk.css",
     "static/js/2.9ab03868.chunk.js",
-    "static/css/main.5e86e617.chunk.css",
-    "static/js/main.a63747d0.chunk.js"
+    "static/css/main.89096bfe.chunk.css",
+    "static/js/main.58024507.chunk.js"
   ]
 }
