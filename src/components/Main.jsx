@@ -1,7 +1,7 @@
 import React from "react";
 import { toast } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css'
-import Image from "../img/Group 863.png"
+import Image from "../img/iContribute_Animation.gif"
 import Notification from "./Notifcation"
 
 toast.configure()
